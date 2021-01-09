@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "Mi pagina web en Next.JS",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JuanVentrone/my_website.git"
+  },
+  "author": "Juan Vicente Ventrone I. <j.ventrone78@outlook.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanVentrone/my_website/issues"
+  },
+  "homepage": "https://github.com/JuanVentrone/my_website#readme"
+}
